@@ -35,7 +35,7 @@ jobs:
 
     # Not necessary to run
     #  - name: Run the Image
-    #    run: docker run -d -p 80:8001 diabetes-fastapi
+    #    run: docker run -d -p 80:8001 titanic-api
       - name: Push the Docker Image
         env:
           DOCKER_USER: ${{ secrets.DOCKER_USERNAME }}
