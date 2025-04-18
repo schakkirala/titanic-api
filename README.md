@@ -1,4 +1,4 @@
-# titanic-api - Predict Survivability for the Titanic Dataset using Modular Approach#
+# titanic-api - Predict Survivability for the Titanic Dataset using Modular Approach
 
 #Steps Followed#
 1. Setup local Git repository for Titanic FastAPI application code
