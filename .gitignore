@@ -1,0 +1,21 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual env
+.venv/
+env/
+
+# Editor and system files
+.vscode/
+*.DS_Store
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Testing
+.coverage
+pytest_cache/
