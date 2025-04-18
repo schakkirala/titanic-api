@@ -18,4 +18,4 @@ env/
 
 # Testing
 .coverage
-pytest_cache/
+_pytest_cache_/
